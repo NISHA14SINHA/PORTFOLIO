@@ -3,6 +3,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    minwidth:300px:
+    maxwidth:1500px:
 }
 html{
     scroll-behavior: smooth;
